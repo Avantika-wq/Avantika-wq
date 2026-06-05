@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Avantika 
 
-<!--
-**Avantika-wq/Avantika-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE student in Bangalore.
+Currently learning DSA with C++ and building projects.
+Goal: Land a product company SDE role by 2028.
 
-Here are some ideas to get you started:
+## Links
+- LeetCode: [https://leetcode.com/u/Avantika_2/]
+- LinkedIn: [https://www.linkedin.com/in/avantika-kumari-776293414/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Data Structures & Algorithms (C++)
+- DBMS, OS fundamentals
+
